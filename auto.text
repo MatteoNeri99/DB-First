@@ -1,4 +1,4 @@
-Id                               MEDIUMINT    PRYMARY_KEY   AUTO_INCREMENT  NOT_NULL
+Id                               MEDIUMINT     PRYMARY_KEY   AUTO_INCREMENT  NOT_NULL
 
 Marca                            VARCHAR(50)   NOT_NULL
 
