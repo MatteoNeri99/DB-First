@@ -1,0 +1,23 @@
+Id                               MEDIUMINT    PRYMARY_KEY   AUTO_INCREMENT  NOT_NULL
+
+Marca                            VARCHAR(50)   NOT_NULL
+
+Modello                          VARCHAR(50)   NOT_NULL
+
+Colore                           VARCHAR(20)   NOT_NULL
+
+Carburante                       VARCHAR(20)  NOT_NULL
+
+Km_percorsi                      MEDIUMINT    UNSIGNED NOT_NULL
+
+Optional                         TEXT         NULL
+
+Incidenti                        VARCHAR(255) NULL 
+
+Info_vecchio_proprietario        VARCHAR(255) NULL
+
+Tagliandi                        TEXT         NULL 
+
+Lavori_svolti                    TEXT         NULL
+
+Note                             TEXT         NULL
