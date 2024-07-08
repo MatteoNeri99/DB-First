@@ -10,6 +10,8 @@ Carburante                       VARCHAR(20)  NOT_NULL
 
 Km_percorsi                      MEDIUMINT    UNSIGNED NOT_NULL
 
+Condizione_auto                  VARCHAR(20)  NOT_NULL
+
 Optional                         TEXT         NULL
 
 Incidenti                        VARCHAR(255) NULL 
